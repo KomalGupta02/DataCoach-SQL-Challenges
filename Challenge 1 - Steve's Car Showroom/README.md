@@ -8,7 +8,7 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 
 ## Entity Relationship Diagram
 
-![alt text](./images/ERD.PNG)
+![alt text](./images/ERD.png)
 
 ## Tables
 ![alt text](./images/tables.PNG)
