@@ -13,4 +13,4 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 ## Tables
 ![alt text](./images/tables.PNG)
 
-* [Data Analysis Question & Answers](./Challenge 1.sql)
+* [Data Analysis Question & Answers](./Challenge_1.sql)
