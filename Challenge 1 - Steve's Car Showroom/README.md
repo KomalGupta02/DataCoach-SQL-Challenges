@@ -13,7 +13,7 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 ## Tables
 ![alt text](./images/tables.PNG)
 
-## Questions & Answers
+## Questions
 
 1. What are the details of all cars purchased in the year 2022?
 2. What is the total number of cars sold by each salesperson?
@@ -26,4 +26,4 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 9. What is the name and city of the salesperson who sold the most number of cars in the year 2023?
 10. What is the name and age of the salesperson who generated the highest revenue in the year 2022?
     
-* Access solutions to the challenge [Here](./Challenge_1.sql)
+Access solutions to the challenge [Here](./Challenge_1.sql)
