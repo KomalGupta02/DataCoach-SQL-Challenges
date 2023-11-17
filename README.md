@@ -10,4 +10,5 @@ A special thanks to [Matthew Steel](https://www.linkedin.com/in/matthew-steel-4a
 
 Please find the solution links for the challenges below:
 - [Challenge 1 - Steve's Car Showroom](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Steve's%20Car%20Showroom)
+- [Challenge 2 - Esports Tournament](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/tree/main/Challenge%202%20-%20Esports%20Tournament)
 
