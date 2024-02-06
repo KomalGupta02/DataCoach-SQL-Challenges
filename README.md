@@ -1,6 +1,6 @@
-# Steel Data SQL Challenges
+# DataCoach SQL Challenges
 
-This repository serves as the solutions for the challenges from **[Steel Data](https://www.steeldata.org.uk/sql.html)**. 
+This repository serves as the solutions for the challenges from **[DataCoach](https://mattsteel87.wixsite.com/datacoach)**. 
 
 It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
 
