@@ -15,4 +15,5 @@ Please find the links for the challenges below:
 - [Challenge 4 - Finance Analysis](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/blob/main/Challenge%204%20-%20Finance%20Analysis/README.md)
 - [Challenge 5 - Pub pricing analysis](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/blob/main/Challenge%205%20-%20Pub%20pricing%20analysis/README.md)
 - [Challenge 6 - Marketing Analysis](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/tree/main/Challenge%206%20-%20Marketing%20Analysis)
+- [Challenge 7 - Healthcare Analysis](https://github.com/KomalGupta02/DataCoach-SQL-Challenges/tree/main/Challenge%207%20-%20Healthcare%20Analysis)
 
