@@ -1,4 +1,4 @@
-# Challenge 5 - Pub pricing analysis
+# Challenge 5 - Pub Pricing Analysis
 
 ![alt text](./images/img.PNG)
 
